@@ -1,0 +1,14 @@
+INVOICE — Acme Office Supplies Pvt Ltd
+Invoice No: INV-2847
+Date: 2026-06-15
+Due Date: 2026-07-15
+
+Items:
+Ergonomic chairs x10 @ Rs.8500 = Rs.85000
+Standing desks x5 @ Rs.22000 = Rs.110000
+Subtotal: Rs.195000
+GST 18%: Rs.35100
+TOTAL DUE: Rs.230100
+
+Payment to: Acme Office Supplies Pvt Ltd
+Bank: HDFC Bank, A/C: 1234567890

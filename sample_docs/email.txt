@@ -1,0 +1,15 @@
+From: priya.sharma@techcorp.com
+To: vendor@acme.com
+Subject: RE: Invoice INV-2847 Payment Delay
+
+Hi team,
+
+Following up on invoice INV-2847 for Rs.230100.
+Our finance team has processed it but payment is delayed
+due to a bank holiday. Expected clearance by July 20th.
+
+Please confirm receipt of this message.
+
+Regards,
+Priya Sharma
+Finance Manager, TechCorp

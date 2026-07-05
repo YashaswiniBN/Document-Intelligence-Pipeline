@@ -1,0 +1,15 @@
+SERVICE AGREEMENT
+
+This agreement is entered into between:
+Party A: TechCorp Solutions Pvt Ltd, Bengaluru
+Party B: Acme Office Supplies Pvt Ltd, Mumbai
+
+Effective Date: June 1 2026
+Expiry Date: May 31 2027
+Contract Value: Rs.500000
+
+Obligations:
+- Party A: Make timely payments within 30 days of invoice
+- Party B: Deliver goods within 7 working days of order
+
+Signed by both parties on June 1 2026.

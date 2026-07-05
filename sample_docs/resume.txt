@@ -1,0 +1,16 @@
+Yashaswini B N
+Bengaluru, Karnataka
+github.com/YashaswiniBN
+
+EXPERIENCE
+UST Global | RPA Developer | Jan 2023 - Present (1.8 yrs)
+- Automation Anywhere A360, UiPath
+- Bot fleet management, L2 support
+- Built Batch Sentiment Analyzer using FastAPI + Groq
+
+EDUCATION
+B.Tech Information Science | VTU | 2023
+
+SKILLS
+Python, FastAPI, Pydantic, LangChain, LangGraph,
+Automation Anywhere A360, UiPath, Groq API
